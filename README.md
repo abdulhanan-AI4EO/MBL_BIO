@@ -1,6 +1,6 @@
 # Biomass Estimation Project
 
-![Project Image](blockDiagram6.png)
+![Project Image](blockDiagram3.png)
 
 **Note: This project is still under development.**
 
